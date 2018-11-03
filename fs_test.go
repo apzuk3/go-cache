@@ -40,5 +40,5 @@ func TestFilesystem_NotFound(t *testing.T) {
 
 func TestFilesystem_WriteErrorCreatingDir(t *testing.T) {
 	fs := Filesystem("/root/cache")
-	assert.Error(t, fs.Write("key1", "val1", 0), "mkdir /root: permission denied")
+	assert.Assert(t, fs.Write("key1", "val1", 0) != nil)
 }
