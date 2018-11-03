@@ -3,6 +3,7 @@
 [![GoDoc](https://godoc.org/apzuk3/go-cache?status.svg)](https://godoc.org/github.com/apzuk3/go-cache)
 [![Build Status](https://travis-ci.com/apzuk3/go-cache.svg?branch=master)](https://travis-ci.com/apzuk3/go-cache)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Go Report Card](https://goreportcard.com/badge/github.com/apzuk3/go-cache)](https://goreportcard.com/report/github.com/apzuk3/go-cache)
 
 ## Installation
 
